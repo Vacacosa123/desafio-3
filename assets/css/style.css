@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+
+}
+
+p {
+    font-size: 1.25rem;
+    font-style: normal;
+    
+}
+
+.cabecera {
+    margin: auto;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.articulo {
+    display: flex;
+    text-align: left;
+    background-color: black;
+    color: #ffffff;
+}
+
+.fontawesome {
+    background-color: gray;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.foot {
+    text-align: center;
+    color: #ffffff;
+    size: 20px;
+    background-color: gray;
+    font-size: 2rem;
+}
